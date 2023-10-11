@@ -10,10 +10,10 @@ D - Quinientos
 M - Mil
 
 1123 ==> MCXXIII
-XXXX ________III ----- 3 * 1 = 3 == III
-XXX________XX--------- 2 * 10 = 20 == XX
-XX________C----------- 10 * 10 = 100 == C
-X_______M------------- 10 * 100 = 1000 == M
+XXXX ________III ----- 3 * 1*0 = 3 == III
+XXX________XX--------- 2 * 10*1 = 20 == XX
+XX________C----------- 10 * 10*2 = 100 == C
+X_______M------------- 10 * 10*3 = 1000 == M
 
 
 Descomponer el número en millares, centenas, decenas, unidades.
