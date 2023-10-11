@@ -23,6 +23,6 @@ Descomponer el número en millares, centenas, decenas, unidades.
 3
 
 
-## Como se convierte un número entero natural menor que 400 a Romano
+
 
 1123 --> MCXXIII
